@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bhupixb, a Software Engineer.
 - 👀 I’m interested in Backend, Docker, Kubernetes, Cyber security, Databases.
+- I occasionally write blogs on: https://not-afraid.medium.com/
 - 📫 How to reach me -> https://www.linkedin.com/in/bhupixb/
 
 <!---
