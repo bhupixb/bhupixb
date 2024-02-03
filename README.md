@@ -1,5 +1,5 @@
 - 👋 Greetings! I'm Bhupendra Yadav, a Software Engineer from India.
-- 🚀 Specializing in Backend, Docker, Kubernetes, Cybersecurity, and Databases.
+- 🚀 Specializing in Backend, Databases and DevOps.
 - 📝 Explore my insights and experiences [on Medium](https://not-afraid.medium.com/), where I occasionally share my thoughts and expertise.
 - 🔗 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/bhupixb/).
 
@@ -20,7 +20,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23DD8119?style=flat)
 
 #### Databases
-![PostgreSQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 #### Frameworks
 ![Apache Flink](https://img.shields.io/badge/Flink-red?style=flat&color=%23DA4B2C)
