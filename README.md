@@ -20,7 +20,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23DD8119?style=flat)
 
 #### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logoColor=red)
+![PostgreSQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)
 
 #### Frameworks
 ![Apache Flink](https://img.shields.io/badge/Flink-red?style=flat&color=%23DA4B2C)
