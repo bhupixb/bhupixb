@@ -1,4 +1,4 @@
-- 👋 Greetings! I'm Bhupendra Yadav, a Software Engineer from India.
+- 👋 Greetings! I'm Bhupendra Yadav, a Software Engineer(Backend) from India.
 - 🚀 Specializing in Backend, Databases and DevOps.
 - 📝 Explore my insights and experiences [on Medium](https://not-afraid.medium.com/), where I occasionally share my thoughts and expertise.
 - 🔗 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/bhupixb/).
